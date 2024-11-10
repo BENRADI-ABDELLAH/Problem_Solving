@@ -281,144 +281,207 @@ Outputs :
 ### [Solution](./)
 
 ---
-Problem 018 Circle Area
-Write a program to calculate circle area then print it on the screen. 
 
-The use should enter: 
-R
+## Problem 18: Circle Area
 
-Example Inputs: 
-5
+Write a program to calculate circle area then print it on the screen.   
 
-Outputs
-78.54
+![Problem_18_Screen](./src/Problem_18_Screen.png)  
 
-Problem: 019 Circle Area Through Diameter
-Write a program to calculate circle area through diameter, 
-then print it on the screen.
+The use should enter:   
+R  
 
-The use should enter: 
-D
+Example Inputs:   
+5  
 
-Example Inputs: 
-10 
+Outputs  
+78.54  
 
-Outputs 
-78.54
+### [Solution](./)
 
-Problem 020 Circle Area Inscribed in a Square
-Write a program to calculate Circle area inscribed in a square, 
-then print it on the screen. 
+---
 
-The use should enter: 
-A 
+## Problem 19: Circle Area Through Diameter
 
-Example Inputs: 
-10 
+Write a program to calculate circle area through diameter, then print it on the screen.  
 
-Outputs :
-78.54
+![Problem_19_Screen](./src/Problem_19_Screen.png)  
 
-Problem 021 Circle Area Along the Circumference
-Write a program to calculate circle area along the circumference, 
-then print it on the screen.
+The use should enter:   
+D  
 
- The use should enter: L
+Example Inputs:   
+10  
 
- Example Inputs:
- 20 
+Outputs  
+78.54  
 
-Outputs :
-31.831
+### [Solution](./)
 
-Problem 022 Circle Area Inscribed in an Isosceles Triangle
-Write a program to calculate circle area Inscribed in an Isosceles Triangle, 
-then print it on the screen. 
+---
 
-The use should enter: 
-a 
-b 
+## Problem 20: Circle Area Inscribed in a Square
 
-Example Inputs: 
-20 
-10 
+Write a program to calculate Circle area inscribed in a square, then print it on the screen.   
 
-Outputs :
-47.124
+![Problem_20_Screen](./Problem_20_Screen.png)  
 
-Problem 023 Circle Area circle Described Around an Arbitrary Triangle
-Write a program to calculate circle area Inscribed in an Isosceles Triangle, 
-then print it on the screen. 
+The use should enter:   
+A  
 
-The use should enter: 
-a 
-b 
+Example Inputs:   
+10  
 
-Example Inputs: 
-20 
-10 
+Outputs :  
+78.54  
 
-Outputs:
-47.124
+### [Solution](./)
 
-Problem 024 Validate Age Between 18 and 45:
-Write a program to ask the user to enter :
+---
+
+## Problem 21: Circle Area Along the Circumference
+
+Write a program to calculate circle area along the circumference, then print it on the screen.  
+
+![Problem_21_Screen](./src/Problem_21_Screen.png)  
+
+ The use should enter: L  
+
+ Example Inputs:  
+ 20  
+
+Outputs :  
+31.831  
+
+### [Solution](./)
+
+---
+
+## Problem 22: Circle Area Inscribed in an Isosceles Triangle
+
+Write a program to calculate circle area Inscribed in an Isosceles Triangle, then print it on the screen.   
+
+![Problem_22_Screen](./src/Problem_22_Screen.png)  
+
+The use should enter:   
+a  
+b  
+
+Example Inputs:   
+20  
+10  
+
+Outputs :  
+47.124  
+
+### [Solution](./)
+
+---
+
+## Problem 23: Circle Area circle Described Around an Arbitrary Triangle
+
+Write a program to calculate circle area Inscribed in an Isosceles Triangle, then print it on the screen.  
+
+![Problem_23_Screen](./src/Problem_23_Screen.png)  
+
+The use should enter:   
+a  
+b  
+
+Example Inputs:   
+20  
+10  
+
+Outputs:  
+47.124  
+
+### [Solution](./)
+
+---
+
+## Problem 24: Validate Age Between 18 and 45:
+
+Write a program to ask the user to enter :  
  • Age 
 
-If age is between 18 and 45 print “Valid Age” otherwise print “Invalid Age”
+If age is between 18 and 45 print “Valid Age” otherwise print “Invalid Age”  
 
-Problem 025 Read Until Age Between
-Write a program to ask the user to enter : 
-• Age
+### [Solution](./)
 
- If age is between 18 and 45 print “Valid Age” otherwise print “Invalid Age” and re-ask user to enter a valid age. 
+---
 
-Note: You should keep asking user to enter a valid age until s/she enters it.
+## Problem 25: Read Until Age Between
 
-Problem 026 Print Numbers from 1 to N
-Write a program to print numbers from 1 to N. 
+Write a program to ask the user to enter :   
+• Age  
 
-Input 
-10 
+ If age is between 18 and 45 print “Valid Age” otherwise print “Invalid Age” and re-ask user to enter a valid age.   
 
-Outputs
+Note: You should keep asking user to enter a valid age until s/she enters it.  
+
+### [Solution](./)
+
+---
+
+## Problem 26: Print Numbers from 1 to N
+
+Write a program to print numbers from 1 to N.  
+
+Input   
+10  
+
+Outputs  
+1   
+2   
+3   
+4   
+5   
+6   
+7   
+8   
+9   
+10  
+
+### [Solution](./)
+
+---
+
+## Problem 27: Print Numbers from N to 1
+
+Write a program to print numbers from N to 1.   
+
+Input  
+10  
+
+Outputs : 
+10  
+9  
+8  
+7  
+6  
+5  
+4  
+3  
+2  
 1 
-2 
-3 
-4 
-5 
-6 
-7 
-8 
-9 
-10
 
-Problem 027 Print Numbers from N to 1
-Write a program to print numbers from N to 1. 
+### [Solution](./)
 
-Input 
-10 
+---
 
-Outputs :
-10 
-9 
-8 
-7 
-6 
-5
-4 
-3 
-2 
-1
+## Problem 28: Print Sum Odd Numbers from 1 to N
 
-Problem 028 Print Sum Odd Numbers from 1 to N
-Write a program to Sum odd numbers from 1 to N. 
+Write a program to Sum odd numbers from 1 to N.   
 
-Input 
-10 
+Input  
+10  
 
-Outputs :
-25
+Outputs :  
+25  
+
+### [Solution](./)
+
+---
 
 
 
