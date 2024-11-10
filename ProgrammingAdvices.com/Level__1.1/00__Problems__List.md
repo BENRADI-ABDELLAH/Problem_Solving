@@ -571,7 +571,7 @@ Example Inputs:
 Outputs:  
 A  
 
-### [Solution](./33__Problem__33_Solution.cpp)
+### [Solution](./33__Problem__33__Solution.cpp)
 
 ---
 
@@ -594,7 +594,7 @@ Example Inputs:
 Outputs:  
 3,300  
 
-### [Solution](./34__Problem__34__Solution.cppp)
+### [Solution](./34__Problem__34__Solution.cpp)
 
 ---
 
