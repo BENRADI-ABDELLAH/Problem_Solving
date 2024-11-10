@@ -265,7 +265,7 @@ Outputs:
 
 Write a program to calculate triangle area then print it on the screen.   
 
-![](./src/Problem_17_Screen.png)  
+![Problem_17_Screen](./src/Problem_17_Screen.png)  
 
 The user should enter:  
 a  
