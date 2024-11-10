@@ -482,6 +482,426 @@ Outputs :
 ### [Solution](./)
 
 ---
+## Problem 29: Print Sum Even Numbers from 1 to N
+
+Write a program to Sum even numbers from 1 to N.  
+
+Input :  
+10  
+
+Outputs:  
+30  
+
+### [Solution](./)
+
+---
+
+## Problem 30: Factorial of N
+
+Write a program to calculate factorial of N!  
+
+Example: factorial of 6 = 6 x 5 x 4 x 3 x 2 x 1 = 720   
+
+Note: User should only enter positive number, other wise reject it and ask to enter again  
+
+Input: 
+6  
+
+Outputs:  
+720  
+
+### [Solution](./Problem__30__Solution.png)
+
+---
+
+## Problem 31: Power of 2,3,4
+
+Write a program to ask the user to enter:  
+• Number  
+
+Then Print the Number^2 , Number^3 , Number^4  
+
+Example Inputs:  
+3  
+
+Outputs:  
+9  
+27  
+81  
+
+### [Solution](./Problem__31__Solution.png)
+
+---
+
+## Problem 32: Power of M
+
+Write a program to ask the user to enter:  
+• Number  
+• M  
+
+Then Print the Number^M  
+
+Example Inputs:  
+2  
+4  
+
+Outputs:  
+16  
+
+### [Solution](./Problem__32__Solution.png)
+
+---
+
+## Problem 33: Grade A,B,C,D,E,F  
+
+Write a program to ask the user to enter:  
+• Grade  
+
+Then print the grade as follows:    
+• 90 – 100  Print A  
+• 80 – 89   Print B  
+• 70 – 79   Print C  
+• 60 – 69   Print D  
+• 50 – 59   Print E  
+• Otherwise Print F  
+
+Example Inputs:  
+95  
+
+Outputs:  
+A  
+
+### [Solution](./Problem__33_Solution.png)
+
+---
+
+## Problem 34 Comission Percentage
+
+Write a program to ask the user to enter:  
+• TotalSales  
+
+The commission is calculated as one percentage * the total sales amount, all you need is to decide which percentage 
+to use of the following:  
+• > 1000,000    = Percentage is 1%  
+• > 500K to 1M  = Percentage is 2%  
+• > 100K – 500K = Percentage is 3%  
+• > 50K to 100K = Percentage is 5%  
+• Otherwise Percentage is 0%  
+
+Example Inputs:  
+110,000  
+
+Outputs:  
+3,300  
+
+### [Solution](./Problem_34_Solution.png)
+
+---
+
+## Problem 35: Piggy Bank Calculator
+
+Write a program to ask the user to enter:  
+• Pennies, Nickels, Dimes, Quarters, Dollars  
+
+Then calculate the total pennies , total dollars and print them on screen giving that:
+• Penny = 1  
+• Nickel = 5  
+• Dime = 10  
+• Quarter = 25  
+• Dollar = 100  
+
+Example Inputs:  
+5,5,5,5,5  
+
+Outputs:  
+705 Pennies  
+7.05 Dollars  
+
+### [Solution](./Problem__35__Solution.png)
+
+---
+
+## Problem 36: Simple Calculator
+
+Write a program to ask the user to enter:  
+• Number1  
+• Number2  
+• OperationType  
+
+Then perform the calculation according to the Operation Type as follows:  
+• “+” : add the two numbers.  
+• “-” : Subtract the two numbers.  
+• “*” : Multiply the two numbers.  
+• “/” : Divide the two numbers.  
+
+Example Inputs:  
+10  
+20  
+"*"  
+
+Outputs:  
+200
+
+### [Solution](./Problem__36__solution)
+
+---
+
+## Problem 37: Sum Until -99
+
+Write a program to read numbers from user and sum them, keep reading until the user enters -99 then print the Sum on screen.   
+
+Input:  
+10  
+20  
+30  
+40  
+-99  
+
+Outputs:  
+100  
+
+### [Solution](./Problem__37__Solution.png)
+
+---
+
+## Problem 38 Is Prime Number
+
+Write a program to read a number and check if it is a prime number or not.  
+
+Note: Prime number can only divide on one and on itself.  
+
+Input:  
+5  
+6  
+3  
+
+Outputs:  
+Prime  
+Not Prime  
+Prime  
+
+### [Solution](./Problem__38_Solution.png)
+
+---
+
+## Problem 39 Pay Remainder
+
+Write a program to read a TotalBill and CashPaid and calculate the remainder to be paid back.  
+
+Input   
+20  
+50  
+
+Outputs:  
+30  
+
+### [Solution](./Problem__39__Solution.png)
+
+---
+
+## Problem 40: Service Fee and Sales Tax
+
+A restaurant charges 10% services fee and 16% sales tax.  
+
+Write a program to read a BillValue and add service fee and sales tax to it, and print the TotalBill on the screen.  
+
+Input:   
+100  
+
+Outputs:  
+127.6  
+
+### [Solution](./Problem__40__Solution.png)
+
+---
+
+## Problem 041 Weeks and Days
+
+Write a program to read a NumberOfHours and calculates the number of weeks, and days included in that number.  
+
+Input:  
+365  
+
+Outputs:  
+2.17 Weeks  
+15.20 Days  
+
+### [Solution](./Problem__41__Solution.png)
+
+---
+
+## Problem 042 Task Duration In Seconds
+
+Write a program to calculate the task duration in seconds and print it on screen.  
+
+Given the time duration of a task in the number of days, hours, minutes, and seconds,.  
+
+Input:  
+2  
+5  
+45  
+35  
+
+Outputs:  
+193,535 Seconds  
+
+### [Solution](./Problem__42__Solution.png)
+
+---
+
+## Problem 43 Seconds to Days Hours Minutes Seconds
+
+Write a program that inputs the number of seconds  and changes it to days, hours, minutes, and seconds  
+ 
+Input:  
+193,535  
+
+Output:  
+2:5:45:35  
+
+### [Solution](./Problem__43__Solution.png)
+
+---
+
+## Problem 44: Day Of Week
+
+Write a program to ask the user to enter:  
+• Day  
+
+Then print the day as follows:  
+• 1 Print Sunday  
+• 2 Print Monday  
+• 3 Print Tuesday  
+• 4 Print Wednesday  
+• 5 Print Thursday  
+• 6 Print Friday  
+• 7 Print Saturday  
+• Otherwise print “Wrong Day” and ask the use to enter the day again.  
+
+Example Inputs:    
+6  
+Outputs:  
+Its Friday  
+
+
+### [Solution](./Problem__44_Solution.png)
+
+---
+
+## Problem 45: Month Of Year
+
+Write a program to ask the user to enter:  
+• Month  
+
+Then print the day as follows:  
+• 1 Print January  
+• 2 Print February  
+• 3 Print March  
+• 4 Print April  
+• 5 Print May  
+• 6 Print June  
+• 7 Print July  
+• 8 Print August  
+• 9 Print September  
+• 10 Print October  
+• 11 Print November  
+• 12 December  
+• Otherwise print “Wrong Month” and ask the use to enter the Month again.  
+
+Example Inputs:  
+11  
+Outputs:  
+November  
+
+### [Solution](./Problem__45__Solution.png)
+
+---
+
+## Problem 46: Print Letters from A to Z
+
+Write a program to print all letters from A to Z  
+
+Outputs:  
+A  
+B  
+C  
+.  
+.  
+.  
+Z  
+
+### [Solution](./Problem__46__Solution.png)
+
+---
+
+## Problem 47: Loan Installment Months
+
+Write a program to read a LoanAmount and Monthly Payment and calculate how many months you need to settle the loan.  
+
+Input:    
+5000  
+500  
+
+Outputs:  
+10 Months  
+
+### [Solution](./Problem__47__Solution.png)
+
+---
+
+## Problem 48: Monthly Loan Installment
+
+calculate the monthly installment amount.  
+
+Input:   
+5000  
+10  
+
+Outputs:  
+500  
+
+### [Solution](./Problem__48__Solution.png)
+
+---
+
+## Problem 49: ATM PIN
+
+Write a program to read the ATM PIN code from the user, then check if PIN Code = 1234, then show the balance to user,
+ otherwise print “Wong PIN” and ask the user to enter the PIN again.  
+
+Assume User Balance is 7500.  
+
+Input:   
+1234  
+5151   
+
+Outputs:  
+Your Balance is: 7500  
+Wrong PIN  
+
+### [Solution](./Problem__49__Solution.png)
+
+---
+
+## Problem 50: ATM PIN 3 Times
+
+Write a program to read the ATM PIN code from the user, then check if PIN Code = 1234, then show the balance to user, otherwise print “Wong PIN” and ask the user to enter the PIN again. 
+Only allow user to enter the PIN 3 times, if fails, print “Card is locked!”  
+
+Assume User Balance is 7500.  
+
+Input:  
+1234  
+5151   
+
+Outputs:  
+Your Balance is: 7500  
+
+### [Solution](./Problem__50__Solution.png)
+
+
+
+
 
 
 
