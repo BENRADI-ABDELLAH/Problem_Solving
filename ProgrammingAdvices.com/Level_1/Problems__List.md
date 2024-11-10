@@ -261,6 +261,165 @@ Outputs:
 
 ---
 
+## Problem 17: Triangle Area:
+
+Write a program to calculate triangle area then print it on the screen.   
+
+!(./src/Problem_17_Screen.png)  
+
+The user should enter:  
+a  
+h  
+
+Example Inputs:   
+10   
+8  
+
+Outputs :  
+40    
+
+### [Solution](./)
+
+---
+Problem 018 Circle Area
+Write a program to calculate circle area then print it on the screen. 
+
+The use should enter: 
+R
+
+Example Inputs: 
+5
+
+Outputs
+78.54
+
+Problem: 019 Circle Area Through Diameter
+Write a program to calculate circle area through diameter, 
+then print it on the screen.
+
+The use should enter: 
+D
+
+Example Inputs: 
+10 
+
+Outputs 
+78.54
+
+Problem 020 Circle Area Inscribed in a Square
+Write a program to calculate Circle area inscribed in a square, 
+then print it on the screen. 
+
+The use should enter: 
+A 
+
+Example Inputs: 
+10 
+
+Outputs :
+78.54
+
+Problem 021 Circle Area Along the Circumference
+Write a program to calculate circle area along the circumference, 
+then print it on the screen.
+
+ The use should enter: L
+
+ Example Inputs:
+ 20 
+
+Outputs :
+31.831
+
+Problem 022 Circle Area Inscribed in an Isosceles Triangle
+Write a program to calculate circle area Inscribed in an Isosceles Triangle, 
+then print it on the screen. 
+
+The use should enter: 
+a 
+b 
+
+Example Inputs: 
+20 
+10 
+
+Outputs :
+47.124
+
+Problem 023 Circle Area circle Described Around an Arbitrary Triangle
+Write a program to calculate circle area Inscribed in an Isosceles Triangle, 
+then print it on the screen. 
+
+The use should enter: 
+a 
+b 
+
+Example Inputs: 
+20 
+10 
+
+Outputs:
+47.124
+
+Problem 024 Validate Age Between 18 and 45:
+Write a program to ask the user to enter :
+ • Age 
+
+If age is between 18 and 45 print “Valid Age” otherwise print “Invalid Age”
+
+Problem 025 Read Until Age Between
+Write a program to ask the user to enter : 
+• Age
+
+ If age is between 18 and 45 print “Valid Age” otherwise print “Invalid Age” and re-ask user to enter a valid age. 
+
+Note: You should keep asking user to enter a valid age until s/she enters it.
+
+Problem 026 Print Numbers from 1 to N
+Write a program to print numbers from 1 to N. 
+
+Input 
+10 
+
+Outputs
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10
+
+Problem 027 Print Numbers from N to 1
+Write a program to print numbers from N to 1. 
+
+Input 
+10 
+
+Outputs :
+10 
+9 
+8 
+7 
+6 
+5
+4 
+3 
+2 
+1
+
+Problem 028 Print Sum Odd Numbers from 1 to N
+Write a program to Sum odd numbers from 1 to N. 
+
+Input 
+10 
+
+Outputs :
+25
+
 
 
 
