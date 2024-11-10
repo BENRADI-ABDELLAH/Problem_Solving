@@ -26,9 +26,9 @@ Write a program to ask the user to enter a number, then Print “ODD” if its o
 
 ## Problem 4: Hire a Driver Case 1
 
-Write a program to ask the user to enter his/her:
-• Age 
-• Driver license 
+Write a program to ask the user to enter his/her:  
+ • Age 
+ • Driver license 
 Then Print “Hired” if his\her age is grater than 21 and s/he has a driver license, otherwise Print “Rejected.
 
 ### [SOLUTION](./Problem__4__Solution.png)
@@ -101,7 +101,7 @@ Example Inputs:
 Outputs
 Fail
 
-### [Solution]
+### [Solution](./)
 
 ---
 
