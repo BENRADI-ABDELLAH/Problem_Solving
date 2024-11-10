@@ -199,6 +199,8 @@ Example Inputs:
 Outputs:  
  30  
 
+ ### [Solution](./)
+
 ## Problem 14: Swap Numbers
 
 Write a program to ask the user to enter:   
@@ -216,4 +218,24 @@ Outputs:
 20  
 
 20  
-10 
+10  
+
+### [Solution](./)   
+
+---
+
+## Problem 15: Rectangle Area
+
+Write a program to calculate rectangle area and print it on the screen.   
+![](.scr/Problem_15_Screen.png)  
+Example Inputs:  
+10  
+20  
+
+Outputs:  
+200  
+
+
+
+
+
