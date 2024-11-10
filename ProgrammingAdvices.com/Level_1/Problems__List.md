@@ -181,3 +181,39 @@ Outputs
 ### [Solution]
 
 ---
+
+## Problem 13: Max of 3
+
+Write a program to ask the user to enter 3 numbers:  
+• A  
+• B  
+• C  
+
+Then Print Max number.   
+
+Example Inputs:  
+30  
+10  
+20  
+
+Outputs:  
+ 30  
+
+## Problem 14: Swap Numbers
+
+Write a program to ask the user to enter:   
+•  Number1  
+•  Number2  
+
+Then print the two numbers , then Swap the two numbers and print them   
+
+Example Inputs:  
+10  
+20  
+
+Outputs:  
+10  
+20  
+
+20  
+10 
