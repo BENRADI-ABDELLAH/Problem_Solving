@@ -265,7 +265,7 @@ Outputs:
 
 Write a program to calculate triangle area then print it on the screen.   
 
-![Problem_17_Screen](./src/17__Problem_17_Screen.png)  
+![Problem_17_Screen](./src/17__Problem__17__Screen.png)  
 
 The user should enter:  
 a  
@@ -286,7 +286,7 @@ Outputs :
 
 Write a program to calculate circle area then print it on the screen.   
 
-![Problem_18_Screen](./src/18__Problem_18_Screen.png)  
+![Problem_18_Screen](./src/18__Problem__18__Screen.png)  
 
 The use should enter:   
 R  
@@ -305,7 +305,7 @@ Outputs
 
 Write a program to calculate circle area through diameter, then print it on the screen.  
 
-![Problem_19_Screen](./src/19__Problem_19_Screen.png)  
+![Problem_19_Screen](./src/19__Problem__19__Screen.png)  
 
 The use should enter:   
 D  
@@ -324,7 +324,7 @@ Outputs
 
 Write a program to calculate Circle area inscribed in a square, then print it on the screen.   
 
-![Problem_20_Screen](./src/20__Problem_20_Screen.png)  
+![Problem_20_Screen](./src/20__Problem__20__Screen.png)  
 
 The use should enter:   
 A  
@@ -335,7 +335,7 @@ Example Inputs:
 Outputs :  
 78.54  
 
-### [Solution](./20__Problem__20_Solution.cpp)
+### [Solution](./20__Problem__20__Solution.cpp)
 
 ---
 
@@ -343,7 +343,7 @@ Outputs :
 
 Write a program to calculate circle area along the circumference, then print it on the screen.  
 
-![Problem_21_Screen](./src/Problem_21_Screen.png)  
+![Problem_21_Screen](./src/21__Problem__21__Screen.png)  
 
  The use should enter: L  
 
@@ -361,7 +361,7 @@ Outputs :
 
 Write a program to calculate circle area Inscribed in an Isosceles Triangle, then print it on the screen.   
 
-![Problem_22_Screen](./src/22__Problem_22_Screen.png)  
+![Problem_22_Screen](./src/22__Problem__22__Screen.png)  
 
 The use should enter:   
 a  
@@ -382,7 +382,7 @@ Outputs :
 
 Write a program to calculate circle area Inscribed in an Isosceles Triangle, then print it on the screen.  
 
-![Problem_23_Screen](./src/23__Problem_23_Screen.png)  
+![Problem_23_Screen](./src/23__Problem__23__Screen.png)  
 
 The use should enter:   
 a  
