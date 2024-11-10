@@ -32,7 +32,7 @@ Write a program to ask the user to enter his/her:
 
 Then Print “Hired” if his\her age is grater than 21 and s/he has a driver license, otherwise Print “Rejected.
 
-### [SOLUTION](./04__Problem__4__Solution.cpp)
+### [SOLUTION](./04__Problem__04__Solution.cpp)
 
 ---
 
@@ -85,7 +85,7 @@ Outputs :
 Half of 60 is 30   
 Half of 50 is 25  
 
-### [Solution](./07__Problem__07__Solutions.cpp)
+### [Solution](./07__Problem__07__Solution.cpp )
 
 ---
 
@@ -406,7 +406,7 @@ Write a program to ask the user to enter :
 
 If age is between 18 and 45 print “Valid Age” otherwise print “Invalid Age”  
 
-### [Solution](./24__Problem__23__Solution.cpp)
+### [Solution](./24__Problem__24__Solution.cpp)
 
 ---
 
@@ -419,7 +419,7 @@ Write a program to ask the user to enter :
 
 Note: You should keep asking user to enter a valid age until s/she enters it.  
 
-### [Solution](./25__Problem__24__Solution.cpp)
+### [Solution](./25__Problem__25__Solution.cpp)
 
 ---
 
@@ -510,7 +510,7 @@ Input:
 Outputs:  
 720  
 
-### [Solution](./30__Problem__30__Solution.png)
+### [Solution](./30__Problem__30__Solution.cpp)
 
 ---
 
@@ -548,7 +548,7 @@ Example Inputs:
 Outputs:  
 16  
 
-### [Solution](./32__Problem__32__Solution.cpp)
+### [Solution](./32__Problem__33__Solution.cpp)
 
 ---
 
@@ -594,7 +594,7 @@ Example Inputs:
 Outputs:  
 3,300  
 
-### [Solution](./34__Problem_34_Solution.cpp)
+### [Solution](./34__Problem__34__Solution.cppp)
 
 ---
 
@@ -726,7 +726,7 @@ Outputs:
 2.17 Weeks  
 15.20 Days  
 
-### [Solution](./Problem__41__Solution.cpp)
+### [Solution](./41__Problem__41__Solution.cpp)
 
 ---
 

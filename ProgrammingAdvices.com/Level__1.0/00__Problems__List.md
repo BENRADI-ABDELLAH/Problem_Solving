@@ -4,7 +4,7 @@
 
 Write a program that prints your name to the screen.
 
-### [SOLUTION](./Problem__1__Solution.png)
+### [SOLUTION](./01__Problem__01__Solution.png)
 
 ---
 
@@ -12,7 +12,7 @@ Write a program that prints your name to the screen.
 
 Write a program that asks the user to enter their name and then prints it on the screen.
 
-### [SOLUTION](./Problem__2__Solution.png)
+### [SOLUTION](./02__Problem__02__Solution.png)
 
 ---
 
@@ -20,7 +20,7 @@ Write a program that asks the user to enter their name and then prints it on the
 
 Write a program to ask the user to enter a number, then Print “ODD” if its odd, Or “Even” if its even
 
-### [SOLUTION](./Problem__3__Solution.png)
+### [SOLUTION](./03__Problem__03__Solution.png)
 
 ---
 
@@ -32,7 +32,7 @@ Write a program to ask the user to enter his/her:
 
 Then Print “Hired” if his\her age is grater than 21 and s/he has a driver license, otherwise Print “Rejected.
 
-### [SOLUTION](./Problem__4__Solution.png)
+### [SOLUTION](./04__Problem__04__Solution.png)
 
 ---
 
@@ -46,7 +46,7 @@ Then Print “Hired”
 
 if his\her age is grater than 21 and s/he has a driver license, otherwise Print “Rejected” Or Hire him\her without conditions
 
-### [SOLUTION](./Problem__5__Solution.png)
+### [SOLUTION](./05__Problem__05__Solution.png)
 
 ---
 
@@ -65,7 +65,7 @@ Abu Hadhoud
 Output  
 Mohammed Abu-Hadhoud  
 
-### [SOLUTION](./Problem__6__Solution.png)
+### [SOLUTION](./06__Problem__06__Solution.png)
 
 ---
 
@@ -85,7 +85,7 @@ Outputs :
 Half of 60 is 30   
 Half of 50 is 25  
 
-### [Solution](./)
+### [Solution](./07__Problem__07__Solution.png)
 
 ---
 
@@ -102,7 +102,7 @@ Example Inputs:
 Outputs  
 Fail
 
-### [Solution](./)
+### [Solution](./08__Problem__08__Solution.png)
 
 ---
 
@@ -121,7 +121,7 @@ Example Inputs:
 Outputs  
 60
 
-### [Solution]
+### [Solution](./09__Problem__09__Solution.png)
 
 ---
 
@@ -140,7 +140,7 @@ Example Inputs:
 Outputs  
 80  
 
-### [Solution]
+### [Solution](./10__Problem__10__Solution.png)
 
 ---
 
@@ -160,7 +160,7 @@ Outputs
 80  
 PASS  
 
-### [Solution]
+### [Solution](./11__Problem__11__Solution.png)
 
 ---
 
@@ -178,7 +178,7 @@ Example Inputs:
 Outputs  
 20
 
-### [Solution]
+### [Solution](./012__Problem__12__Solution.png)
 
 ---
 
@@ -199,7 +199,7 @@ Example Inputs:
 Outputs:  
  30  
 
- ### [Solution](./)
+ ### [Solution](./13__Problem__13__Solution.png)
 
 ## Problem 14: Swap Numbers
 
@@ -220,7 +220,7 @@ Outputs:
 20  
 10  
 
-### [Solution](./)   
+### [Solution](./14__Problem__14__Solution.png)   
 
 ---
 
@@ -228,7 +228,7 @@ Outputs:
 
 Write a program to calculate rectangle area and print it on the screen.  
 
-![screen 15](./src/Problem_15_Screen.png)    
+![screen 15](./src/15__Problem__15__Screen.pngProblem_15_Screen.png)    
 
 Example Inputs:  
 10  
@@ -237,14 +237,14 @@ Example Inputs:
 Outputs:  
 200  
 
-### [Solution](./)
+### [Solution](./15__Problem__15__Solution.png)
 ---
 
 ## Problem 16: Rectangle area Through Diagonal and side Area 
 
 Write a program to calculate rectangle area through diagonal and side area of rectangle and print it on the screen.  
 
-![screen 16](./src/Problem_16_Screen.png)  
+![screen 16](./src/16__Problem__16__Screen.png)  
 
 The use should enter:  
  A  
@@ -257,7 +257,7 @@ Example Inputs:
 Outputs:     
 198.43  
 
-### [Solution](./)
+### [Solution](./16__Problem__16__Solution.png)
 
 ---
 
@@ -265,7 +265,7 @@ Outputs:
 
 Write a program to calculate triangle area then print it on the screen.   
 
-![Problem_17_Screen](./src/Problem_17_Screen.png)  
+![Problem_17_Screen](./src/17__Problem__17__Screen.png)  
 
 The user should enter:  
 a  
@@ -278,7 +278,7 @@ Example Inputs:
 Outputs :  
 40    
 
-### [Solution](./)
+### [Solution](./17__Problem__17__Solution.png)
 
 ---
 
@@ -286,7 +286,7 @@ Outputs :
 
 Write a program to calculate circle area then print it on the screen.   
 
-![Problem_18_Screen](./src/Problem_18_Screen.png)  
+![Problem_18_Screen](./src/18__Problem__18__Screen.png)  
 
 The use should enter:   
 R  
@@ -297,7 +297,7 @@ Example Inputs:
 Outputs  
 78.54  
 
-### [Solution](./)
+### [Solution](./18__Problem__18__Solution.png)
 
 ---
 
@@ -305,7 +305,7 @@ Outputs
 
 Write a program to calculate circle area through diameter, then print it on the screen.  
 
-![Problem_19_Screen](./src/Problem_19_Screen.png)  
+![Problem_19_Screen](./src/18__Problem__18__Screen.png)  
 
 The use should enter:   
 D  
@@ -316,7 +316,7 @@ Example Inputs:
 Outputs  
 78.54  
 
-### [Solution](./)
+### [Solution](./19__Problem__19__Solution.png)
 
 ---
 
@@ -324,7 +324,7 @@ Outputs
 
 Write a program to calculate Circle area inscribed in a square, then print it on the screen.   
 
-![Problem_20_Screen](./Problem_20_Screen.png)  
+![Problem_20_Screen](./src/20__Problem__20__Screen.png)  
 
 The use should enter:   
 A  
@@ -335,7 +335,7 @@ Example Inputs:
 Outputs :  
 78.54  
 
-### [Solution](./)
+### [Solution](./20__Problem__20__Solution.png)
 
 ---
 
@@ -343,7 +343,7 @@ Outputs :
 
 Write a program to calculate circle area along the circumference, then print it on the screen.  
 
-![Problem_21_Screen](./src/Problem_21_Screen.png)  
+![Problem_21_Screen](./src/21__Problem__21__Screen.png)  
 
  The use should enter: L  
 
@@ -353,7 +353,7 @@ Write a program to calculate circle area along the circumference, then print it 
 Outputs :  
 31.831  
 
-### [Solution](./)
+### [Solution](./21__Problem__21__Solution.png)
 
 ---
 
@@ -361,7 +361,7 @@ Outputs :
 
 Write a program to calculate circle area Inscribed in an Isosceles Triangle, then print it on the screen.   
 
-![Problem_22_Screen](./src/Problem_22_Screen.png)  
+![Problem_22_Screen](./src/22__Problem__22__Screen.png)  
 
 The use should enter:   
 a  
@@ -374,7 +374,7 @@ Example Inputs:
 Outputs :  
 47.124  
 
-### [Solution](./)
+### [Solution](./22__Problem__22__Solution.png)
 
 ---
 
@@ -382,7 +382,7 @@ Outputs :
 
 Write a program to calculate circle area Inscribed in an Isosceles Triangle, then print it on the screen.  
 
-![Problem_23_Screen](./src/Problem_23_Screen.png)  
+![Problem_23_Screen](./src/23__Problem__23__Screen.png)  
 
 The use should enter:   
 a  
@@ -395,7 +395,7 @@ Example Inputs:
 Outputs:  
 47.124  
 
-### [Solution](./)
+### [Solution](./23__Problem__23__Solution.png)
 
 ---
 
@@ -406,7 +406,7 @@ Write a program to ask the user to enter :
 
 If age is between 18 and 45 print “Valid Age” otherwise print “Invalid Age”  
 
-### [Solution](./)
+### [Solution](./24__Problem__24__Solution.png)
 
 ---
 
@@ -419,7 +419,7 @@ Write a program to ask the user to enter :
 
 Note: You should keep asking user to enter a valid age until s/she enters it.  
 
-### [Solution](./)
+### [Solution](./25__Problem__25__Solution.png)
 
 ---
 
@@ -442,7 +442,7 @@ Outputs
 9   
 10  
 
-### [Solution](./)
+### [Solution](./26__Problem__26__Solution.png)
 
 ---
 
@@ -465,7 +465,7 @@ Outputs :
 2  
 1 
 
-### [Solution](./)
+### [Solution](./27__Problem__27__Solution.png)
 
 ---
 
@@ -479,7 +479,7 @@ Input
 Outputs :  
 25  
 
-### [Solution](./)
+### [Solution](./28__Problem__28__Solution.png)
 
 ---
 ## Problem 29: Print Sum Even Numbers from 1 to N
@@ -492,7 +492,7 @@ Input :
 Outputs:  
 30  
 
-### [Solution](./)
+### [Solution](./29__Problem__29__Solution.png)
 
 ---
 
@@ -510,7 +510,7 @@ Input:
 Outputs:  
 720  
 
-### [Solution](./Problem__30__Solution.png)
+### [Solution](./30__Problem__30__Solution.png)
 
 ---
 
@@ -529,7 +529,7 @@ Outputs:
 27  
 81  
 
-### [Solution](./Problem__31__Solution.png)
+### [Solution](./31__Problem__31__Solution.png)
 
 ---
 
@@ -548,7 +548,7 @@ Example Inputs:
 Outputs:  
 16  
 
-### [Solution](./Problem__32__Solution.png)
+### [Solution](./32__Problem__32__Solution.png)
 
 ---
 
@@ -571,7 +571,7 @@ Example Inputs:
 Outputs:  
 A  
 
-### [Solution](./Problem__33_Solution.png)
+### [Solution](./33__Problem__33__Solution.png)
 
 ---
 
@@ -594,7 +594,7 @@ Example Inputs:
 Outputs:  
 3,300  
 
-### [Solution](./Problem_34_Solution.png)
+### [Solution](./34__Problem__34__Solution.png)
 
 ---
 
@@ -617,7 +617,7 @@ Outputs:
 705 Pennies  
 7.05 Dollars  
 
-### [Solution](./Problem__35__Solution.png)
+### [Solution](./35__Problem__35__Solution.png)
 
 ---
 
@@ -642,7 +642,7 @@ Example Inputs:
 Outputs:  
 200
 
-### [Solution](./Problem__36__solution)
+### [Solution](./36__Problem__36__solution.png)
 
 ---
 
@@ -660,7 +660,7 @@ Input:
 Outputs:  
 100  
 
-### [Solution](./Problem__37__Solution.png)
+### [Solution](./37__Problem__37__Solution.png)
 
 ---
 
@@ -680,7 +680,7 @@ Prime
 Not Prime  
 Prime  
 
-### [Solution](./Problem__38_Solution.png)
+### [Solution](./38__Problem__38__Solution.png)
 
 ---
 
@@ -695,7 +695,7 @@ Input
 Outputs:  
 30  
 
-### [Solution](./Problem__39__Solution.png)
+### [Solution](./39__Problem__39__Solution.png)
 
 ---
 
@@ -711,7 +711,7 @@ Input:
 Outputs:  
 127.6  
 
-### [Solution](./Problem__40__Solution.png)
+### [Solution](./40__Problem__40__Solution.png)
 
 ---
 
@@ -726,7 +726,7 @@ Outputs:
 2.17 Weeks  
 15.20 Days  
 
-### [Solution](./Problem__41__Solution.png)
+### [Solution](./41__Problem__41__Solution.png)
 
 ---
 
@@ -745,7 +745,7 @@ Input:
 Outputs:  
 193,535 Seconds  
 
-### [Solution](./Problem__42__Solution.png)
+### [Solution](./42__Problem__42__Solution.png)
 
 ---
 
@@ -759,7 +759,7 @@ Input:
 Output:  
 2:5:45:35  
 
-### [Solution](./Problem__43__Solution.png)
+### [Solution](./43__Problem__43__Solution.png)
 
 ---
 
@@ -784,7 +784,7 @@ Outputs:
 Its Friday  
 
 
-### [Solution](./Problem__44_Solution.png)
+### [Solution](./44__Problem__44_Solution.png)
 
 ---
 
@@ -813,7 +813,7 @@ Example Inputs:
 Outputs:  
 November  
 
-### [Solution](./Problem__45__Solution.png)
+### [Solution](./45__Problem__45__Solution.png)
 
 ---
 
@@ -830,7 +830,7 @@ C
 .  
 Z  
 
-### [Solution](./Problem__46__Solution.png)
+### [Solution](./46__Problem__46__Solution.png)
 
 ---
 
@@ -845,7 +845,7 @@ Input:
 Outputs:  
 10 Months  
 
-### [Solution](./Problem__47__Solution.png)
+### [Solution](./47__Problem__47__Solution.png)
 
 ---
 
@@ -860,7 +860,7 @@ Input:
 Outputs:  
 500  
 
-### [Solution](./Problem__48__Solution.png)
+### [Solution](./48__Problem__48__Solution.png)
 
 ---
 
@@ -879,7 +879,7 @@ Outputs:
 Your Balance is: 7500  
 Wrong PIN  
 
-### [Solution](./Problem__49__Solution.png)
+### [Solution](./49__Problem__49__Solution.png)
 
 ---
 
@@ -897,7 +897,7 @@ Input:
 Outputs:  
 Your Balance is: 7500  
 
-### [Solution](./Problem__50__Solution.png)
+### [Solution](./50__Problem__50__Solution.png)
 
 
 
