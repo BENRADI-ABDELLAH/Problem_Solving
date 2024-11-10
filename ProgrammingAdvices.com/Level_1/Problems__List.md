@@ -1,13 +1,11 @@
+Problem 1 
 
-
-Problem 1
-
- Write a program to print your name on screen. [SOLUTION](./Captur.png)
+ Write a program to print your name on screen. [Solution](./Problem__1__Solution.png)
 
 
 Problem 2
 
-Write a program to ask the user to enter his/her name and print it on screen
+Write a program to ask the user to enter his/her name and print it on screen. [Solution](./Problem__2__Solution.png)
 
 
 Problem 3 
@@ -21,6 +19,9 @@ Write a program to ask the user to enter his/her:
  • Age 
 • Driver license 
 Then Print “Hired” if his\her age is grater than 21 and s/he has a driver license, otherwise Print “Rejected.
+
+
+
 
 Problem 005 Hire a Driver Case2
 
@@ -353,4 +354,3 @@ Input
 
 Outputs :
 25
-
