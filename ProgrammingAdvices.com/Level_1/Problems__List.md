@@ -226,8 +226,9 @@ Outputs:
 
 ## Problem 15: Rectangle Area
 
-Write a program to calculate rectangle area and print it on the screen.   
-![description](./src/Problem_15_Screen.png)    
+Write a program to calculate rectangle area and print it on the screen.  
+
+![screen 15](./src/Problem_15_Screen.png)    
 
 Example Inputs:  
 10  
@@ -235,6 +236,34 @@ Example Inputs:
 
 Outputs:  
 200  
+
+### [Solution](./)
+---
+
+## Problem 16: Rectangle area Through Diagonal and side Area 
+
+Write a program to calculate rectangle area through diagonal and side area of rectangle and print it on the screen.  
+
+![screen 16](./src/Problem_16_Screen.png)  
+
+The use should enter:  
+ A  
+ D  
+
+Example Inputs:  
+5  
+40  
+
+Outputs:     
+198.43  
+
+### [Solution](./)
+
+---
+
+
+
+
 
 
 
