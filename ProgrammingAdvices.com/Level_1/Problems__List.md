@@ -70,19 +70,19 @@ Mohammed Abu-Hadhoud
 
 ## Problem 7: Half Number
 
-Write a program to ask the user to enter:
-• Number 
+Write a program to ask the user to enter:  
+• Number  
 
-Then Print the “Half of the <Number> is <???>”. 
+Then Print the “Half of the <Number> is <???>”.   
 
-Example Inputs:
- 60
- 50 
+Example Inputs:  
+ 60  
+ 50  
 
-Outputs :
+Outputs :  
 
-Half of 60 is 30 
-Half of 50 is 25
+Half of 60 is 30   
+Half of 50 is 25  
 
 ### [Solution](./)
 
@@ -90,15 +90,15 @@ Half of 50 is 25
 
 ## Problem 8: Mark Pass Fail
 
-Write a program to ask the user to enter:
-• Mark
+Write a program to ask the user to enter:  
+• Mark  
 
- Then Print the “PASS” if mark >=50, otherwise print “Fail”
+ Then Print the “PASS” if mark >=50, otherwise print “Fail”  
  
-Example Inputs:
-45
+Example Inputs:  
+45  
 
-Outputs
+Outputs  
 Fail
 
 ### [Solution](./)
@@ -107,17 +107,17 @@ Fail
 
 ## Problem 9: Sum of 3 numbers
 
-Write a program to ask the user to enter:
+Write a program to ask the user to enter:  
  • Number1, Number2, Number3 
 
 Then Print the Sum of entered numbers
 
-Example Inputs: 
-10
-20 
-30 
+Example Inputs:  
+10  
+20  
+30  
 
-Outputs
+Outputs  
 60
 
 ### [Solution]
@@ -126,18 +126,18 @@ Outputs
 
 ## Problem 10: Average of 3 Marks
 
-Write a program to ask the user to enter: 
-• Mark1, Mark2, Mark3 
+Write a program to ask the user to enter:   
+• Mark1, Mark2, Mark3  
 
-Then Print the Average of entered Marks 
+Then Print the Average of entered Marks  
 
-Example Inputs: 
-90 
-80 
-70 
+Example Inputs:  
+90  
+80  
+70  
 
-Outputs
-80
+Outputs  
+80  
 
 ### [Solution]
 
@@ -145,19 +145,19 @@ Outputs
 
 ## Problem 11: Average Pass Fail
 
-Write a program to ask the user to enter: 
+Write a program to ask the user to enter:   
 • Mark1, Mark2, Mark3 
 
 Then Print the Average of entered Marks, and print “PASS” if average>=50, otherwise print “FAIL”
  
-Example Inputs: 
-90 
-80 
-70 
+Example Inputs:  
+90  
+80  
+70  
 
-Outputs
-80 
-PASS
+Outputs  
+80  
+PASS  
 
 ### [Solution]
 
@@ -165,16 +165,16 @@ PASS
 
 ## Problem 12: Max of 2
 
-Write a program to ask the user to enter: 
+Write a program to ask the user to enter:   
 • Number1 , Number2 
 
 Then Print the Max Number 
 
-Example Inputs: 
-10 
-20 
+Example Inputs:  
+10  
+20  
 
-Outputs
+Outputs  
 20
 
 ### [Solution]
