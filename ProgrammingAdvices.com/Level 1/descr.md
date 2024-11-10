@@ -1,6 +1,5 @@
 
 
-(./Capture d’écran 2024-07-01 112340.png)
 Problem 1
 
  Write a program to print your name on screen. [SOLUTION](#Solution)
@@ -361,6 +360,7 @@ Outputs :
 
 Voici l'image de la solution au problème 1 :
 
-![Solution Image](./level1/solution_problem1.png)
+![Solution Image](./Capture d’écran 2024-07-01 112340.png)
+
 
 </details>
