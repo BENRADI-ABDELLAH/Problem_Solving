@@ -2,7 +2,7 @@
 
 Problem 1
 
- Write a program to print your name on screen. [SOLUTION](#Solution)
+ Write a program to print your name on screen. [SOLUTION](.\ProgrammingAdvices.com\Level 1)
 
 
 Problem 2
@@ -354,13 +354,3 @@ Input
 Outputs :
 25
 
-
-<details>
-<summary>Solution</summary>
-
-Voici l'image de la solution au problème 1 :
-
-![Solution Image](./Level-1/Capture-d’écran-2024-07-01 112340.png)
-
-
-</details>
