@@ -227,7 +227,7 @@ Outputs:
 ## Problem 15: Rectangle Area
 
 Write a program to calculate rectangle area and print it on the screen.   
-![](.scr/Problem_15_Screen.png)  
+![](./Level_1/scr/Problem_15_Screen.png)  
 Example Inputs:  
 10  
 20  
