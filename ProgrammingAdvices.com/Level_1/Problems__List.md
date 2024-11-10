@@ -27,21 +27,21 @@ Write a program to ask the user to enter a number, then Print “ODD” if its o
 ## Problem 4: Hire a Driver Case 1
 
 Write a program to ask the user to enter his/her:  
- • Age 
- • Driver license 
+ • Age  
+ • Driver license  
 Then Print “Hired” if his\her age is grater than 21 and s/he has a driver license, otherwise Print “Rejected.
 
 ### [SOLUTION](./Problem__4__Solution.png)
 
 ---
 
-## Problem 5: Hire a Driver Case 2
-Write a program to ask the user to enter his/her: 
-• Age 
-• Driver license 
-• Has Recommendation! 
+## Problem 5: Hire a Driver Case 2  
+Write a program to ask the user to enter his/her:  
+• Age  
+• Driver license  
+• Has Recommendation!  
 
-Then Print “Hired” 
+Then Print “Hired”  
 
 if his\her age is grater than 21 and s/he has a driver license, otherwise Print “Rejected” Or Hire him\her without conditions
 
@@ -51,18 +51,18 @@ if his\her age is grater than 21 and s/he has a driver license, otherwise Print 
 
 ## Problem 6: FullName
 
-Write a program to ask the user to enter: 
-• First Name 
-• Last Name 
+Write a program to ask the user to enter:  
+• First Name  
+• Last Name  
 
-Then Print Full Name on screen. 
+Then Print Full Name on screen.   
 
-Example Input: 
-Mohammed 
-Abu Hadhoud 
+Example Input:  
+Mohammed  
+Abu Hadhoud   
 
-Output 
-Mohammed Abu-Hadhoud
+Output  
+Mohammed Abu-Hadhoud  
 
 ### [SOLUTION](./Problem__6__Solution.png)
 
