@@ -178,7 +178,7 @@ Example Inputs:
 Outputs  
 20
 
-### [Solution](./012__Problem__12__Solution.png)
+### [Solution](./12__Problem__12__Solution.png)
 
 ---
 
