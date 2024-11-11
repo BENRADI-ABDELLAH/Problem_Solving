@@ -642,7 +642,7 @@ Example Inputs:
 Outputs:  
 200
 
-### [Solution](./36__Problem__36__solution.png)
+### [Solution](./36__Problem__36__Solution.png)
 
 ---
 
