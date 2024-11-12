@@ -784,7 +784,7 @@ Outputs:
 Its Friday  
 
 
-### [Solution](./44__Problem__44_Solution.png)
+### [Solution](./44__Problem__44__Solution.png)
 
 ---
 
