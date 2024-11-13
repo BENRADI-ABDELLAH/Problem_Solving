@@ -64,3 +64,31 @@ Output:
 
 ---
 
+## Problem 05 : Print Digits in a reversed order
+
+Write a program to read a number and print it in a reversed order.  
+
+Input:  
+1234  
+
+Output:  
+4321  
+
+### [Solution](./05__Problem__05__Level__02__Solution.cpp)
+
+---
+
+## Problem 06 : Sum of digits
+
+Write a program to read a number and print the sum of its digits.  
+
+Input:  	
+1234  
+
+Output:  
+Sum Of Digits=10  
+
+### [Solution](./06__Problem__06__Level__02__Solution.cpp)
+
+---
+
