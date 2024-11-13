@@ -48,4 +48,19 @@ Output:
 
 ---
 
+## Problem 04 : Perfect Number from 1 to N
+
+Write a program to print all perfect numbers from 1 to N.  
+
+Input:  
+500   
+
+Output:  
+6  
+28  
+496  
+
+### [Solution](./04__Problem__04__Level__02__Solution.cpp)
+
+---
 
