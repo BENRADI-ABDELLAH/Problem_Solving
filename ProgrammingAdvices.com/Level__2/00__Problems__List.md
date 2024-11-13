@@ -31,7 +31,7 @@ Output :
 
 Wtite a program to check if the number is perfect or not?  
 
-Note: 
+Note:  
 -Perfect Number= Sum(all divisors).    
       28= 1+2+4+7+14  
       6=1+2+3  
