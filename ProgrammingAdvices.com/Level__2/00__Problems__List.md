@@ -189,3 +189,133 @@ Output:
 ### [Solution](./12__Problem__12__Level__02__Solution.cpp)
 
 ---
+
+## Problem 13 : Number Pattern
+
+Write a program to read a number and print inverted pattern as follows?  
+
+Input:  
+3  
+
+Output:  
+1  
+22  
+333  
+
+### [Solution](./13__Problem__13__Level__02__Solution.cpp)
+
+---
+
+## Problem 14 : Inverted Letter Pattern
+
+Write a program to read a number and print inverted letter pattern as follows?  
+
+Input:  
+3  
+
+Output:  
+CCC  
+BB  
+A  
+
+### [Solution](./14__Problem__14__Level__02__Solution.cpp)
+
+---
+
+## Problem 15 : Letter Pattern
+
+Write a program to read a number and print letter pattern as follows?  
+
+Input:  
+3  
+
+Output:  
+A  
+BB  
+CCC  
+
+### [Solution](./15__Problem__15__Level__02__Solution.cpp)
+
+---
+
+## Problem 16 : All word from aaa to zzz
+
+Write a program to print all words from AAA to ZZZ  
+
+Output:  
+AAA  
+AAB  
+AAC  
+.  
+.  
+.  
+ZZZ  
+
+### [Solution](./16__Problem__16__Level__02__Solution.cpp)
+
+---
+
+## Problem 17 : Guess a 3-Letter PAssword
+
+Write a program to guess a 3-Letter Password  (all capital)  
+
+Input:  
+AAF  
+
+Output:  
+Trial[1]: AAA  
+Trial[2]: AAB  
+Trial[3]: AAC  
+Trial[4]: AAD  
+Trial[5]: AAE  
+Trial[6]: AAF  
+
+Password is AAF  
+Found after 6 Trial(s)  
+
+### [Solution](./17__Problem__17__Level__02__Solution.cpp)
+
+---
+
+## Problem 18 : Encrypt/Decrypt Text
+
+Write a program to read a text and encrypt it, decrypt it.  
+
+Input:  
+Abdellah  
+
+Output:  
+Text Before Encryption: Abdellah  
+Text After Encryption: Cdfgnncj  
+Text After Decryption: Abdellah  
+
+### [Solution](./18__Problem__18__Level__02__Solution.cpp)
+
+---
+
+## Problem 19 : Random 3 number from 1 to 10
+
+Write a program to print 3 random numbers from 1 to 10.  
+
+Output:  
+9  
+5  
+3  
+
+### [Solution](./19__Problem__19__Level__02__Solution.cpp)
+
+---
+
+## Problem 20 :Random Small latter, capital letter, special C, and digit in order
+
+Write a program to print random Small Letter, Capital Letter, Special Character, and Digit in order.  
+
+Output:  
+I  
+G  
+$  
+7  
+
+### [Solution](./20__Problem__20__Level__02__Solution.cpp)
+
+---
