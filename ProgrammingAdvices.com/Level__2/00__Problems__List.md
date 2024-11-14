@@ -92,3 +92,100 @@ Sum Of Digits=10
 
 ---
 
+## Problem 07 : Reverse Number
+
+Write a problem to read a number and print it reversed.  
+
+Input:  
+1234  
+
+Output:  
+Reverse is:  
+4321  
+ 
+
+### [Solution](./07__Problem__07__Level__02__Solution.cpp)
+
+---
+
+## Problem 08 : Digit Frequency
+
+Write a program read a digit and a number, then print digit frequency in that number.  
+
+Input:  
+1223222  
+2  
+
+Output:  
+Digit 2 Frequency is 5 Time(s)  
+
+### [Solution](./08__Problem__08__Level__02__Solution.cpp)
+
+---
+
+## Problem 09 : Digit Frequency
+
+Write a program read a number then print all digit frequency in that number.  
+
+Input:  
+123222  
+
+Output:  
+Digit 1 Frequency is 1 Time(s).  
+Digit 2 Frequency is 5 Time(s).  
+Digit 3 Frequency is 1 Time(s).  
+
+### [Solution](./09__Problem__09__Level__02__Solution.cpp)
+
+---
+
+## Problem 10 : Print Digit in order
+
+Write a program to read a number and print it in order from left to right.  
+
+Input:  
+1234  
+
+Output:  
+1  
+2  
+3  
+4  
+
+### [Solution](./10__Problem__10__Level__02__Solution.cpp)
+
+---
+
+## Problem 11 : Palindrome Number
+
+Write a program to read a number and check if it is Palindrome?  
+
+Palindrome is a number that reads the same frome right to left.  
+
+Input:  
+1234  
+12321  
+
+Output:  
+No, it is NOT a Palindrome number.  
+Yes, it is a Palindrome number.  
+
+### [Solution](./11__Problem__11__Level__02__Solution.cpp)
+
+---
+
+## Problem 12 : Inverted Number Pattern
+
+Write a program to read a number and print inverted pattern as follows?  
+
+Input:  
+3  
+
+Output:  
+333  
+22  
+1  
+
+### [Solution](./12__Problem__12__Level__02__Solution.cpp)
+
+---
