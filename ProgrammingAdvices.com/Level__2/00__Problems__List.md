@@ -360,3 +360,32 @@ Original array: 1 1 1 2 3
 ### [Solution](./22__Problem__22__Level__02__Solution.cpp)
 
 ---
+
+## Problem 23 : Fill Array With Random Number From 1 To 100
+
+Write a program to fill array with max size 100 with random dumbers from 1 to 100.  
+
+Input:  
+10  
+
+Output:  
+Array Elements: 92 93 5 59 80 95 53 29 62 100  
+
+### [Solution](./23__Problem__23__Level__02__Solution.cpp)
+
+---
+
+## Problem 24 : Max of random Array
+
+Write a program to fill array with max size 100 with random numbers from 1 to 100 then print Max.  
+
+Input:  
+10  
+
+Output:  
+Array Elements: 6 91 69 79 77 35 71 92 19 77  
+Max Number is : 92  
+
+### [Solution](./24__Problem__24__Level__02__Solution.cpp)
+
+---
