@@ -1,4 +1,4 @@
-# Problems List - Algorithms and Problem Solving Level 2
+# Problems List | From 1 To 100 - Algorithms and Problem Solving Level 2
   
 
 ## Problem 01 : Print Multiplication Table  1 to 10
@@ -317,5 +317,46 @@ $
 7  
 
 ### [Solution](./20__Problem__20__Level__02__Solution.cpp)
+
+---
+
+## Problem 21 : Generate keys
+
+Write a program to read how many keys to generate and print them on the screen.  
+
+Input:  
+5  
+
+Output:  
+Key [1] : UFCC-URXD-ZTJA-RLVW  
+Key [2] : QHHH-OHKB-TAPA-OSFN  
+Key [3] : QCKY-JXWI-CZRX-FJTT  
+Key [4] : RNSB-AYOM-CVVK-IQXE  
+Key [5] : OTSJ-OHIG-DZFC-TBSH  
+
+### [Solution](./21__Problem__21__Level__02__Solution.cpp)
+
+---
+
+## Problem 22 : Repeated Elements Count In Array
+
+Write a program to read N elements and store them in array then print all array elements and ask for a number to check,  
+then print how many number a certain element repeated in that array.  
+
+Input:  
+5  
+Element [1]: 1  
+Element [2]: 1  
+Element [3]: 1  
+Element [4]: 2  
+Element [5]: 3  
+
+Enter the number you want to check: 1  
+
+Output:  
+Original array: 1 1 1 2 3  
+1 is repeated 3 time(s).  
+
+### [Solution](./22__Problem__22__Level__02__Solution.cpp)
 
 ---
