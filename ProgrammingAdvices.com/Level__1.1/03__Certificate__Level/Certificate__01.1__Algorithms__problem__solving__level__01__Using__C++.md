@@ -2,7 +2,7 @@
 ## [Resume](../01__Problems__List/00__Problems__List.md)       
 ### [.PDF Version](./src/Certificate__Algorithms__And__Problem__Solving__Level__01__Using__C++.pdf)
 
-![Certificate](./src/Certificate__ALgorithms__And__Problem__Solving__Level__01__Using__C++.png) 
+![Certificate](./src/Certificate__ALgorithms__And__Problem__Solving__Level__01__Using__C++.png)[](./src/Certificate__Algorithms__And__Problem__Solving__Level__01__Using__C++.pdf)
 
 
 
