@@ -832,3 +832,18 @@ C++ ceil Result: 11
 ### [Solution](./49__Problem__49__Level__02__Solution.cpp)
 
 ---
+
+## Problem 50 : MySqrt
+
+Write a program to print Sqrt of numbers, don’t use built in sqrt function.  
+
+Input:  
+25  
+
+Output:  
+My MySqrt Result : 5  
+C++ sqrt Result: 5  
+
+### [Solution](./50__Problem__50__Level__02__Solution.cpp)
+
+---
