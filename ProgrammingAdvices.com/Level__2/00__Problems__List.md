@@ -786,6 +786,21 @@ Negative Numbers count is: 1
 
 ---
 
+## Problem 46 : MyABS
+
+Write a program to print abs of numbers, don’t use in abs function.  
+
+Input:  
+-10  
+
+Output:  
+My abs Result : 10  
+C++ abs Result: 10  
+
+### [Solution](./46__Problem__46__Level__02__Solution.cpp)
+
+---
+
 ## Problem 47 : MyRound
 
 Write a program to print round of numbers, don’t use built in round function.  
