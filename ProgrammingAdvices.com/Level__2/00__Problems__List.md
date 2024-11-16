@@ -663,3 +663,172 @@ Array 2 Odd numbers:
 ### [Solution](./38__Problem__38__Level__02__Solution.cpp)
 
 ---
+
+## Problem 39 : Copy Prime Numbers to a new array 
+
+Write a program to fill array max size 100 with random numbers from 1 to 100,  
+copy only prime numbers to anotherarray using AddArrayElement, and print it.  
+
+Input:  
+10  
+
+Output:  
+
+Array 1 elements:  
+59 99 69 63 53 53 53 44 22 2  
+
+Array 2 Prime numbers:  
+59 53 53 53 2  
+
+### [Solution](./39__Problem__39__Level__02__Solution.cpp)
+
+---
+
+## Problem 40 : Copy Distincts numbers to array
+
+Write a program to fill array with numbers,then print distinct numbers to another array.  
+
+Output:  
+
+Array 1 elements:  
+10 10 10 50 50 70 70 70 70 90  
+
+Array 2 distinct elements:  
+10 50 70 90  
+
+### [Solution](./40__Problem__40__Level__02__Solution.cpp)
+
+---
+
+## Problem 41 : Is Palindrome Array
+
+Write a program to fill array with numbers then check if it is Palindrome array or not,
+
+ Note: Palindrome array can be read the same from right to left and from left to right.  
+
+Input:  
+10 20 30 30 20 10  
+
+Output:  
+
+Array Elements:  
+10 20 30 30 20 10  
+
+Yes array is Palindrome  
+
+### [Solution](./41__Problem__41__Level__02__Solution.cpp)
+
+---
+
+## Problem 42 : Count Odd Numbers in Array
+
+Write a program to fill array with max size 100 with random numbers from 1 to 100,then print the count of Odd number.  
+
+Input:  
+10  
+
+Output:  
+
+Array Elements: 27 91 40 54 46 76 98 44 87 93  
+
+Odd Numbers count is: 4  
+
+### [Solution](./42__Problem__42__Level__02__Solution.cpp)
+
+---
+
+## Problem 43 : Count Even Numbers in Array
+
+Write a program to fill array with max size 100 with random numbers from 1 to 100, then print the count of Even numbers.  
+
+Input:  
+10  
+
+Output:  
+
+Array Elements: 14 99 33 45 59 57 68 34 23 70  
+
+Even Numbers count is: 4  
+
+### [Solution](./43__Problem__43__Level__02__Solution.cpp)
+
+---
+
+## Problem 44 : Count Positive Numbers In Array
+
+Write a program to fill array with max size 100 with random numbers from -100 to 100, then print the count of Positive numbers.  
+
+Input:  
+10  
+
+Output:  
+
+Array Elements: 55 -67 -24 74 -11 32 99 6 -28 26  
+Positive Numbers count is: 6  
+
+### [Solution](./44__Problem__44__Level__02__Solution.cpp)
+
+---
+
+## Problem 45 : Count Negative Numbers In Array
+
+Write a program to fill array with max size 100 with random numbers from -100 to 100, then print the count of Negative numbers.  
+
+Input::
+10  
+
+Output:  
+
+Array Elements: 81 28 15 21 59 -96 8 87 14 24  
+Negative Numbers count is: 1  
+
+### [Solution](./45__Problem__45__Level__02__Solution.cpp)
+
+---
+
+## Problem 47 : MyRound
+
+Write a program to print round of numbers, don’t use built in round function.  
+
+Input:  
+10.7  
+
+Output:  
+
+My Round Result : 11  
+C++ Round Result: 11  
+
+### [Solution](./47__Problem__47__Level__02__Solution.cpp)
+
+---
+
+## Problem 48 : MyFloor
+
+
+Write a program to print floor of numbers, don’t use built in floor function.  
+ 
+Input:  
+10.7  
+
+Output:  
+My MyFloor Result : 10  
+C++ floor Result  : 10  
+
+### [Solution](./48__Problem__48__Level__02__Solution.cpp)
+
+---
+
+## Problem 49 : MyCeil
+
+Write a program to print Ceil of numbers, don’t use built in Ceil function.  
+
+Input:  
+10.7  
+
+Output:  
+My MyCeil Result : 11  
+C++ ceil Result: 11  
+
+### [Solution](./49__Problem__49__Level__02__Solution.cpp)
+
+---
