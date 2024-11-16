@@ -1,5 +1,7 @@
 # Certificate : 01 Algorithms And Problem Solving Level 1
 
-![Certificate](01__Algorithms%20problem%20solving%20level%201.pdf)
+![Certificate](./src/01__Certificate__Algorithms__And__Problem__Solving__Level__01.png)
 
 ### [Detail: Topics](../)
+
+### [.PDF Version](./src/01__Certificate__Algorithms__And__Problem__Solving__Level__01.pdf)
