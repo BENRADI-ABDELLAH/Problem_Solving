@@ -1,1 +1,1 @@
-![uuuu](../03__Certificate__Level/Certificate%2001.1__Algorithms__problem__solving__level__01__Using__C++.md)
+![View the certificate](../03__Certificate__Level/Certificate__01.1__Algorithms__problem__solving__level__01__Using__C++.md)
