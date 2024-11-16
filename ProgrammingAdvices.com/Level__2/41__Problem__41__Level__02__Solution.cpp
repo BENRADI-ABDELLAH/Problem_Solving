@@ -1,52 +1,5 @@
 
 /*
-        Problem 1:
-        
-        Write a program to print your name on screen.
-
-*/
-
-
-#include <iostream>
-#include<string>
-using namespace std;
-
-void PrintArray(string arr[], int lenght) {
-
-    for (int i = 0;i < lenght;i++) {
-        for (int j = 0;j < lenght;j++) {
-
-
-            cout << arr[i][j];
-            cout << "\n";
-        }
-    }
-
-
-}
-
-
-
-int main()
-{
-
-    string maghrebCountry[3] = { "Maroc","algerie","tunisie" };// [@1][@2][@3]
-    string euroCountry[3] = { "espagne","portugal","france" };
-    string americainCountry[3] = { "usa","argentine","brazil" };
-
-    string* allArr[3] = { maghrebCountry ,euroCountry ,americainCountry };
-    //PrintArray(  maghrebCountry, 3);
-
-    string T[2][3] = { {"l1.c1","l1.c2","l1.c3"},{"l2.c1","l2.c2","l2.c3"} };
-
-    
-    cout << T[0][1];
-    
-
-    return 0;
-
-}
-/*
 
 Problem 41 level 2: Is Palindrome Array
 
