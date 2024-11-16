@@ -389,3 +389,105 @@ Max Number is : 92
 ### [Solution](./24__Problem__24__Level__02__Solution.cpp)
 
 ---
+
+## Problem 25 : Min of random Array
+
+Write a program to fill array with max size 100 with random numbers 1 to 100, then print Minimum Number  
+
+Input:  
+10  
+
+Output:  
+Array Elements: 53 15 39 24 84 18 79 53 23 11  
+Min Number is : 11  
+
+### [Solution](./25__Problem__25__Level__02__Solution.cpp)
+
+---
+
+## Problem 26 : Sum of random Array
+
+Write a program to fill array with max size 100 with random numbers from 1 to 100, then print sum of all number  
+
+Input:  
+10  
+
+Output:  
+Array Elements: 91 29 52 48 16 88 50 59 27 21  
+Sum of all number is : 481  
+
+### [Solution](./26__Problem__26__Level__02__Solution.cpp)
+
+---
+
+## Problem 27 : Averge of random Array
+
+Write a program ti fill array with max size 100 with random numbers from 1 to 100, then print average of all number  
+Input:  
+10  
+
+Output:  
+Array Elements: 92 89 61 30 81 22 94 36 98 35  
+Average of all number is : 63.8  
+
+### [Solution](./27__Problem__27__Level__02__Solution.cpp)
+
+---
+
+## Problem 28 : Copy Array
+
+Writ ap program to fill array with max size 100 with random numbers from to 100, copy it to another array and print it.  
+
+Input:  
+10  
+
+Output:  
+Array 1 elements:  
+91 1 42 4 12 86 32 94 73 71  
+
+Array 2 elements after copy:  
+91 1 42 4 12 86 32 94 73 71  
+
+### [Solution](./28__Problem__28__Level__02__Solution.cpp)
+
+---
+
+## Problem 29 : Copy Only Prime Number
+
+Write a program to fill array woth max size 100 with random numbers from 1 to 100, copy only prime numbers to another array and print it.  
+
+Input  
+10  
+
+Output:  
+Array 1 elements:  
+23 25 56 35 18 48 27 79 23 93  
+
+Prime Numbers in Array2:  
+23 79  
+
+### [Solution](./29__Problem__29__Level__02__Solution.cpp)
+
+---
+
+## Problem 30 : Sum of 2 Arrays to a third one
+
+Write a program to array two arrays with max size 100 with random numbers from 1 to 100,  
+ sum their elements in a third array and print the results.  
+
+Input:  
+10  
+
+Output:  
+Array 1 elements:  
+44 65 52 82 45 85 3 22 6 76  
+
+Array 2 elements:  
+100 58 49 47 8 88 3 82 9 45  
+
+Sum of array1 and array2 elements:  
+144 123 101 129 53 173 6 104 15 121  
+
+### [Solution](./30__Problem__30__Level__02__Solution.cpp)
+
+---
