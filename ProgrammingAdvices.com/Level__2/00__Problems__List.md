@@ -491,3 +491,175 @@ Sum of array1 and array2 elements:
 ### [Solution](./30__Problem__30__Level__02__Solution.cpp)
 
 ---
+
+## Problem 31 : Shuffle Ordered Array
+
+Write a program to fill array with ordered numbers from 1 to N, then print it, after that shuffle this array and print it after shuffle.  
+  
+Input:  
+10  
+
+Output:  
+10  
+
+Array elements before shuffle:  
+1 2 3 4 5 6 7 8 9 10  
+
+Array elements after shuffle:  
+4 3 7 8 9 6 2 10 1 5  
+
+### [Solution](./31__Problem__31__Level__02__Solution.cpp)
+
+---
+
+## Problem 32 : Copy Array In Reversed Order
+
+Write a program to fill array with max size 100 with random numbers from 1 to 100,   
+copy it to another array in reverse order and print it.  
+
+Input:  
+10  
+
+Output:  
+Array 1 elements:  
+33 100 53 76 64 89 9 49 18 21  
+
+Array 2 elements after copy:  
+21 18 49 9 89 64 76 53 100 33  
+
+### [Solution](./32__Problem__32__Level__02__Solution.cpp)
+
+---
+
+## Problem 33 : Fill Array with Keys
+
+Write a program to read how many keys to generate and fill them in array then print them on the screen.  
+
+Input:  
+5  
+
+Output:  
+Array elements:  
+
+Array[0] : OSZX-IDFK-RNUK-BYWJ  
+Array[1] : QEXC-VWZA-CRYO-PHYR  
+Array[2] : HION-WAJI-DNGQ-IPSV  
+Array[3] : DHJJ-SNOP-QIDD-HHTB  
+Array[4] : PKOL-SADH-FDRC-KUBY  
+
+
+### [Solution](./33__Problem__33__Level__02__Solution.cpp)
+
+---
+
+## Problem 34 : Return Number Index In Array
+
+Write a program to fill array with max size 100 with random numbers from 1 to 100,   
+read number and return its index in array if found otherwise return -1.  
+
+Input:  
+10  
+
+Output:    
+
+Array 1 elements:  
+95 34 90 42 69 23 1 8 17 66  
+
+Please enter a number to search for?  
+95  
+
+Number you are looking for is: 95  
+The number found at position: 0  
+The number found its order  : 1  
+
+
+### [Solution](./34__Problem__34__Level__02__Solution.cpp)
+
+---
+
+
+## Problem 35 : check number in array
+
+Write a program to fill array with max size 100 with random numbers from 1 to 100,  
+read number and print it ‘s found or not (reuse code in prev problem)  
+
+Input:  
+10  
+
+Output:  
+
+Array 1 elements:  
+30 20 72 37 26 24 41 1 50 42  
+
+Please enter a number to search for?  
+20  
+
+Number you are looking for is: 20  
+Yes it is found :-)  
+
+### [Solution](./35__Problem__35__Level__02__Solution.cpp)
+
+---
+
+
+## Problem 36 : Add Array Element Simi Dynamic
+
+Write a program to dynamically read numbers and save in an array Max size of array is 100, allocate simi-dynamic array length.  
+
+Output:  
+
+Please enter a number? 10  
+Do you want to add more numbers? [0]:No,[1]:yes? 1  
+
+Please enter a number? 20  
+Do you want to add more numbers? [0]:No,[1]:yes? 1  
+
+Please enter a number? 30  
+Do you want to add more numbers? [0]:No,[1]:yes? 0  
+
+Array Length: 3  
+Array elements: 10 20 30  
+
+### [Solution](./36__Problem__36__Level__02__Solution.cpp)
+
+---
+
+## Problem 37 : Resolve Problem 28 level 2 : Copy Array; Using AddArrayElement 
+
+Write a program to fill array with max size 100 with random numbers from 1 to 100,  
+copy it to another array using AddArrayElement, and print it.  
+
+Input:  
+10  
+
+Output:  
+
+Array 1 elements:  
+78 63 52 55 100 83 36 7 29 28  
+
+Array 2 elements after copy:  
+78 63 52 55 100 83 36 7 29 28  
+
+### [Solution](./37__Problem__37__Level__02__Solution.cpp)
+
+---
+
+## Problem 38 : Copy Odd Numbers to a new Array  
+
+Write a program to fill array with max size 100 with random numbers from 1 to 100,  
+ copy only odd numbers to another array using AddArrayElement, And print it.  
+
+Input:  
+10  
+
+Output:  
+
+Array 1 elements:  
+16 84 26 77 35 99 87 6 35 54  
+
+Array 2 Odd numbers:  
+77 35 99 87 35  
+
+### [Solution](./38__Problem__38__Level__02__Solution.cpp)
+
+---
