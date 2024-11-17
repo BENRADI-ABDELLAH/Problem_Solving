@@ -876,7 +876,7 @@ Requirements:
 -	After all rounds show game over the print game results,  
 Then ask the user if s/he want to play again?  
 
-### [Solution](./51__Project1__51__Level__02__Solution.cpp)
+### [Solution](../02__Projects/01__Project__01__Level__02.cpp)
 
 ---
 
