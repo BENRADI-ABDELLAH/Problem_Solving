@@ -97,4 +97,44 @@ void PrintRoundResults(stRoundInfo RoundInfo) {
 	SetWinnerScreenColor(RoundInfo.Winner);
 
 }
+enWinner WhoWonTheGame(short Player1WinTimes, short ComputerWinTimes) {
+
+	if (Player1WinTimes > ComputerWinTimes)
+		return enWinner::Player1;
+
+	else if (ComputerWinTimes > Player1WinTimes)
+		return enWinner::Computer;
+
+	else
+		return enWinner::Draw;
+}
+stGameResults FillGameResults(int GameRounds, short Player1WinTimes, short ComputerWinTimes, short DrawTimes) {
+
+	stGameResults GameResults;
+
+	GameResults.GameRounds = GameRounds;
+	GameResults.Player1WinTimes = Player1WinTimes;
+	GameResults.Computer2WinTimes = ComputerWinTimes;
+	GameResults.DrawTimes = DrawTimes;
+	GameResults.GameWinner = WhoWonTheGame(Player1WinTimes, ComputerWinTimes);
+	GameResults.WinnerName = WinnerName(GameResults.GameWinner);
+
+	return GameResults;
+
+}
+enGameChoice ReadPlayer1Choice() {
+
+	short Choice = 1;
+
+	do {
+
+		cout << "\nYour Choice: [1]:Stone, [2]:Paper, [3]:Scissors ? ";
+		cin >> Choice;
+	}
+
+	while (Choice < 1 || Choice >3);
+
+	return (enGameChoice)Choice;
+
+}
 
