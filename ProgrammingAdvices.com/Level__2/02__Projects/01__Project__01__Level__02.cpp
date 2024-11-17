@@ -225,4 +225,33 @@ void ResetScreen() {
 	system("color 0F");
 
 }
+void StartGame() {
+
+	char PlayAgain = 'Y';
+
+	do {
+
+		ResetScreen();
+
+		stGameResults GameResults = PlayGame(ReadHowManyRounds());
+
+		ShowGameOverScreen();
+
+		ShowFinalGameResults(GameResults);
+
+		cout << endl << Tabs(3) << "Do you want to play again? Y/N? ";
+		cin >> PlayAgain;
+
+	} while (PlayAgain == 'Y' || PlayAgain == 'y');
+
+}
+int main() {
+	//Seeds the random number generator in C++, called only once    
+	srand((unsigned)time(NULL));
+
+	StartGame();
+
+	return 0;
+}
+
 
