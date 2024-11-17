@@ -63,4 +63,38 @@ enWinner WhoWonTheRound(stRoundInfo RoundInfo) {
 
 	return enWinner::Player1;
 }
+string ChoiceName(enGameChoice Choice) {
+
+	string arrGameChoices[3] = { "Stone","Paper","Scissors" };
+
+	return arrGameChoices[Choice - 1];
+
+}
+
+void SetWinnerScreenColor(enWinner Winner) {
+
+	switch (Winner) {
+	case enWinner::Player1:
+		system("color 2F"); //turn screen to Green
+		break;
+	case enWinner::Computer:
+		system("color 4F"); //turn screen to Red        
+		cout << "\a";
+		break;
+	default:
+		system("color 6F"); //turn screen to Yellow
+		break;
+	}
+}
+void PrintRoundResults(stRoundInfo RoundInfo) {
+
+	cout << "\n____________Round [" << RoundInfo.RoundNumber << "] ____________\n\n";
+	cout << "Player1  Choice: " << ChoiceName(RoundInfo.Player1Choice) << endl;
+	cout << "Computer Choice: " << ChoiceName(RoundInfo.ComputerChoice) << endl;
+	cout << "Round Winner   : [" << RoundInfo.WinnerName << "] \n";
+	cout << "__________________________________\n" << endl;
+
+	SetWinnerScreenColor(RoundInfo.Winner);
+
+}
 
