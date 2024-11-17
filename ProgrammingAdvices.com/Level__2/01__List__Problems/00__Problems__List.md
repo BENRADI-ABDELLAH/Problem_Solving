@@ -862,3 +862,30 @@ C++ sqrt Result: 5
 ### [Solution](./50__Problem__50__Level__02__Solution.cpp)
 
 ---
+
+## Project 1 : Stone-Paper-Scissor
+
+Write a small game program for Stone-Paper-Scissor  
+
+Requirements:  
+-	Ask for how many rounds the game will be.  
+-	Start each round vs computer.  
+-	Show the results with each round.  
+-	If computer wins the round ring a bill, and screed red.  
+-	If player won the round show green screen.  
+-	After all rounds show game over the print game results,  
+Then ask the user if s/he want to play again?  
+
+### [Solution](./51__Project1__51__Level__02__Solution.cpp)
+
+---
+
+## Project 2: Math Game
+
+
+Ask player to choice level and operator
+
+
+### [Solution](./52__Project2__52__Level__02__Solution.cpp)
+
+---
