@@ -1,4 +1,5 @@
-# Problems List - Algorithms and Problem Solving Level 1 | [Go To Folder](./)
+# Algorithms and Problem Solving Level 1
+##### Problems List
 
 ## Problem 1: Print Your Name
 
