@@ -1,4 +1,4 @@
-# Algorithms And Problem Solving Level 1 Using FlowChart 
+# Algorithms And Problem Solving Level 1 Using FlowChart (100 Problems)
 
 ## Problem 1: Print Your Name
 

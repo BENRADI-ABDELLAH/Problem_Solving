@@ -1,4 +1,4 @@
-# Problems List | From 1 To 100 - Algorithms and Problem Solving Level 2
+# Algorithms and Problem Solving Level 2 Using C++ (100 Problems)
   
 
 ## Problem 01 : Print Multiplication Table  1 to 10

@@ -1,4 +1,4 @@
-# Algorithms and Problem Solving Level 1
+# Algorithms and Problem Solving Level 1 (100 Problems)
 
 ## Problem 1: Print Your Name
 
