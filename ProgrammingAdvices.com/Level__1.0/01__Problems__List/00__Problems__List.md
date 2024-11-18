@@ -1,4 +1,4 @@
-# Algorithms And Problem Solving Level 1 Using FlowChart |  [Go To Folder](./)
+# Algorithms And Problem Solving Level 1 Using FlowChart 
 
 ## Problem 1: Print Your Name
 
