@@ -2,8 +2,14 @@
 
 ### Je suis ABDELLAH BENRADI, 
 
-<a href="./Level__2/03__Certificate/src/Certificate__Algorithms__And__Problem__Solving__Level__2__Using__C++.pdf" target="_blank">Voir le contenu détaillé</a>
-
+<div style="display: flex; align-items: center;">
+  <p style="flex: 1; margin-right: 20px;">
+  adfgadfgad fdgadfgadfg    
+  adfgadf dfgadfg adfgadfg adfga   
+  adfgadf dfgadfg adfgadfg adfga      
+  </p>
+  <img src="../ProgrammingAdvices.com/Level__2/03__Certificate/src/Certificate__Algorithms__And__Problem__Solving__Level__2__Using__C++.png" alt="Description de l'image" style="max-width: 200px;"/>
+</div>
 Dans mon cursus d'apprentissage chew programming advices j'ai optenue une liste de certificat qui approuve  
 
 
