@@ -2,29 +2,26 @@
 
 ![![](../ProgrammingAdvices.com/Level__2/03__Certificate/src/Certificate__Algorithms__And__Problem__Solving__Level__2__Using__C++.png)]
 
+### Mes réalisations pendant le cursus d'apprentissage dans ce cours [Ici](./Level__2/)
+
+Je vous invite découvrir l'Organisme qui m'a formé ainsi toutes mes réalisations pendant mon programme de formation.   
 
 ## Organisme de certification:
 
-### Programming Advices
+Nom: Programming Advices Platforme:www.programmingadvices.com   
 
-Lien Util :   
+Formateur: Mohammed abu-hadhoud LinkedIn https://www.linkedin.com/in/abuhadhoud/  
 
-Formateur: Mr Muhammed Abu-hadhoud  - LinkedIn
+Plan de la formation :https://programmingadvices.com/p/roadmap  
 
-# Parcours d'apprentissage 
+---
 
-Mon repertoir pour programmingadvices:...  
-Titre de formation: partie 1: les bases de la programmation  
-                    partie 2: le Développement back end  
+Ce qui m'a encouragé a suivre la formation chez ProgrammingAdvices c'est la fiabilité et compétance du formateur,
+j'ai beneficié d'une formation professionnelle methodologique, pratique et réel. la formation appui sur les compétances neccessaire au marché de travail
+à savoir realiser des projets,   
 
-Platform:www.programmingadvices.com  
-formateur: Mohammed abu-hadhoud; ....  
-coordonnée:...  
+Parmis les compétances que j 'ai appris : 
+-La Programmation dinamique: savoir decomposer le problemme en plusieurs petit problemes et savoir composer les petites solution
+pour une solution final.
 
-### Certificats obtenu de la plus recente:
-
-- [Algorithms and problem solving level 2](./Level__2/03__Certificate/Certificate__Algorithms__And__Problem__Solving__Level__2__Using__C++.md)   
-- [Algorithms and problem solving level 1](./Level__1.1/02__Certificate__Level/Certificate__01.1__Algorithms__problem__solving__level__01__Using__C++.md)  
-- [Algorithms and problem solving level 1 Using FlowChart](./Level__1.0/02__Certificate__Level__01/Certificate__01__Algorithms__problem__solving__level__01.md)  
-
-
+### Voila tout mes realisations pendant cette formation [ICI](./01__Mon__Parcours__Chez__ProgrammingAdvice)
