@@ -16,12 +16,13 @@ Plan de la formation :https://programmingadvices.com/p/roadmap
 
 ---
 
-Ce qui m'a encouragé a suivre la formation chez ProgrammingAdvices c'est la fiabilité et compétance du formateur,
-j'ai beneficié d'une formation professionnelle methodologique, pratique et réel. la formation appui sur les compétances neccessaire au marché de travail
+Ce qui m'a encouragé a suivre la formation chez ProgrammingAdvices c'est la fiabilité de l'éxperience et compétance du formateur,
+j'ai beneficié d'une formation professionnelle methodologique et basée sur l'experience du formateur du marché du travail à savoir realisé des projets,
+ la formation appui sur les compétances neccessaire au marché de travail ; non seulement des notions mais tout un savoir faire fourni par le formateur de sont experience au marché du travail.
 à savoir realiser des projets,   
 
 Parmis les compétances que j 'ai appris : 
 -La Programmation dinamique: savoir decomposer le problemme en plusieurs petit problemes et savoir composer les petites solution
 pour une solution final.
 
-### Voila tout mes realisations pendant cette formation [ICI](./01__Mon__Parcours__Chez__ProgrammingAdvice)
+## Voila tout mes realisations pendant cette formation [ICI](./01__Mon__Parcours__Chez__ProgrammingAdvice)
