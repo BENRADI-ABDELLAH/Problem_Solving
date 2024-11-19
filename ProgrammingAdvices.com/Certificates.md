@@ -2,7 +2,7 @@
 
 ![![](../ProgrammingAdvices.com/Level__2/03__Certificate/src/Certificate__Algorithms__And__Problem__Solving__Level__2__Using__C++.png)]
 
-### Mes réalisations pendant le cursus d'apprentissage dans ce cours [Ici](./Level__2/)
+## Mes réalisations pendant le cursus d'apprentissage dans ce cours [Ici](./Level__2/)
 
 Je vous invite découvrir l'Organisme qui m'a formé ainsi toutes mes réalisations pendant mon programme de formation.   
 
