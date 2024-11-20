@@ -5,5 +5,4 @@
 ### [Acceder au contenu](./Level__2/)
 
 ## Oganisme de certification
-[![ProgrammingAdvices](./src/logo__ProgrammingAdvices.png) ] 
-[plus d'info](./README.md)  
+![](./src/logo__ProgrammingAdvices.png) [plus d'info](./README.md)  
