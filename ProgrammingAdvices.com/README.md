@@ -1,11 +1,17 @@
 
 
-## Organisme de Certification
-### Organisme à but non lucratif
-Nom : Programming Advices  
+# Programming Advices
+
+
+Raison sociale: Un organisme à but non lucratif  
+
+Directeur :  Mohammed Abu-Hadhoud;  Founder, CEO/Senior Management Consultant chez Epya Solutions  
+  
 Plateforme : www.programmingadvices.com  
-Formateur : Mohammed Abu-Hadhoud - Profil LinkedIn  
-Plan de la Formation : Roadmap  
+
+Formateur : Mohammed Abu-Hadhoud - [Profil LinkedIn](https://www.linkedin.com/in/abuhadhoud/)  
+
+Plan de la Formation : [Roadmap](https://programmingadvices.com/p/roadmap)  
 
 ## Objectif:  
 Programming Advices a pour objectif de transmettre des compétences pratiques et méthodologiques en programmation informatique,   
