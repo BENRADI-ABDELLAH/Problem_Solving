@@ -6,4 +6,4 @@
 
 ## Oganisme de certification
 ![ProgrammingAdvices](./src/logo__ProgrammingAdvices.png)  
-[plus d'info](README.md)  
+[plus d'info](./README.md)  
