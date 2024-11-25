@@ -41,11 +41,14 @@ Aptitude à écrire un code clair, maintenable et performant, respectant les sta
 
 Découvrez ci-dessous mes différentes réalisations académiques et professionnelles. Chaque lien vous permet d'accéder au contenu détaillé du certificat correspondant.
 
-|   | Cours                                                        | Certifica                             |
-|---|--------------------------------------------------------------|---------------------------------------|
-| 1 | *Programming Foundation - Niveau 1*                          | [Voir le contenu du certificat](#)    |
-| 2 | *Algorithms and Problem Solving Using Flow Chart - Niveau 1* | [Voir le contenu du certificat](#)    |
-| 3 | *Introduction to Programming Using C++ - Niveau 1*           | [Voir le contenu du certificat](#)    |
-| 4 | *Algorithms and Problem Solving Using C++ - Niveau 1*        | [Voir le contenu du certificat](#)    |
-| 5 | *Algorithms and Problem Solving Using C++ - Niveau 2*        | [Voir le contenu du certificat](#)    |
-| 6 | *Introduction to Programming Using C++ - Niveau 2*           | [Voir le contenu du certificat](#)    |
+|   | Cours                                                         | Certifica                             |
+|---|---------------------------------------------------------------|---------------------------------------|
+| 1 | *Programming Foundation                          -  Niveau 1* | [Voir le contenu du certificat](#)    |
+| 2 | *Algorithms and Problem Solving Using Flow Chart -  Niveau 1* | [Voir le contenu du certificat](#)    |
+| 3 | *Introduction to Programming Using C++           -  Niveau 1* | [Voir le contenu du certificat](#)    |
+| 4 | *Algorithms and Problem Solving Using C++        -  Niveau 1* | [Voir le contenu du certificat](#)    |
+| 5 | *Algorithms and Problem Solving Using C++        -  Niveau 2* | [Voir le contenu du certificat](#)    |
+| 6 | *Introduction to Programming Using C++           -  Niveau 2* | [Voir le contenu du certificat](#)    |
+| 7 | *Algorithms and Problem Solving Using C++        -  Niveau 3* | [Voir le contenu du certificat](#)    |
+| 8 | *Algorithms and Problem Solving Using C++        -  Niveau 4* | [Voir le contenu du certificat](#)    |
+| 9 | *Programming Foundation                          -  Niveau 2*  | [Voir le contenu du certificat](#)    |
