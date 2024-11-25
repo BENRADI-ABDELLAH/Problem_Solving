@@ -43,9 +43,9 @@ Découvrez ci-dessous mes différentes réalisations académiques et professionn
 
 | Cours                                                            | Certifica                             |
 |------------------------------------------------------------------|---------------------------------------|
-| *1 | Programming Foundation - Niveau 1*                          | [Voir le contenu du certificat](#)    |
-| *2 | Algorithms and Problem Solving Using Flow Chart - Niveau 1* | [Voir le contenu du certificat](#)    |
-| *3 | Introduction to Programming Using C++ - Niveau 1*           | [Voir le contenu du certificat](#)    |
-| *4 | Algorithms and Problem Solving Using C++ - Niveau 1*        | [Voir le contenu du certificat](#)    |
-| *5 | Algorithms and Problem Solving Using C++ - Niveau 2*        | [Voir le contenu du certificat](#)    |
-| *6 | Introduction to Programming Using C++ - Niveau 2*           | [Voir le contenu du certificat](#)    |
+| 1 | *Programming Foundation - Niveau 1*                          | [Voir le contenu du certificat](#)    |
+| 2 | *Algorithms and Problem Solving Using Flow Chart - Niveau 1* | [Voir le contenu du certificat](#)    |
+| 3 | *Introduction to Programming Using C++ - Niveau 1*           | [Voir le contenu du certificat](#)    |
+| 4 | *Algorithms and Problem Solving Using C++ - Niveau 1*        | [Voir le contenu du certificat](#)    |
+| 5 | *Algorithms and Problem Solving Using C++ - Niveau 2*        | [Voir le contenu du certificat](#)    |
+| 6 | *Introduction to Programming Using C++ - Niveau 2*           | [Voir le contenu du certificat](#)    |
