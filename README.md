@@ -3,16 +3,21 @@
 # Programming Advices
 
 
-| Raison sociale | Organisme à but non lucratif  |
-|----------------|-------------------------------|
-| Platforme      | [www.programmingadvices.com](https://programmingadvices.com/) |
-| Formateur      | [Profil LinkedIn](https://www.linkedin.com/in/abuhadhoud/) - Mohammed Abu-Hadhoud|
-| RoadMap        | [Roadmap](https://programmingadvices.com/p/roadmap)|   
+Raison sociale: Un organisme à but non lucratif  
 
+Directeur :  Mohammed Abu-Hadhoud;  Founder, CEO/Senior Management Consultant chez Epya Solutions  
+  
+Plateforme : www.programmingadvices.com  
 
-| Objectif|
-|------------|
-|Programming Advices a pour objectif de transmettre des compétences pratiques et méthodologiques en programmation informatique,<br>tout en préparant les apprenants aux exigences réelles du marché du travail.<br>L’organisme met un accent particulier sur la réalisation de projets concrets,<br>la résolution de problèmes complexes, et la pratique des meilleures techniques de développement logiciel.|  
+Formateur : Mohammed Abu-Hadhoud - [Profil LinkedIn](https://www.linkedin.com/in/abuhadhoud/)  
+
+Plan de la Formation : [Roadmap](https://programmingadvices.com/p/roadmap)  
+
+## Objectif:  
+Programming Advices a pour objectif de transmettre des compétences pratiques et méthodologiques en programmation informatique,   
+tout en préparant les apprenants aux exigences réelles du marché du travail.  
+L’organisme met un accent particulier sur la réalisation de projets concrets,  
+la résolution de problèmes complexes, et la pratique des meilleures techniques de développement logiciel.  
 
 ## Mon Parcours:  
 Ce qui m’a encouragé à suivre la formation proposée par Programming Advices est la fiabilité et l’expertise du formateur, reconnues pour leur pertinence dans le monde professionnel.  
@@ -32,4 +37,4 @@ Maîtrise de la décomposition des problèmes complexes en sous-problèmes simpl
 ### Clean Code :
 Aptitude à écrire un code clair, maintenable et performant, respectant les standards et les bonnes pratiques du développement logiciel.  
 
-# [Mes Réalisations](./Certificats_Programming_Advices_RoadMap.md)
+# [Mes Réalisations](Mes_Certificats.md)
